@@ -7,7 +7,7 @@ import Shoes from "./components/Shoes";
 
 function MyNavbar() {
   const navItems = [
-    { text: "SHOP ALL", link: "/" },
+    { text: "SHOP ALL", link: "/ShopAll" },
     { text: "FOOTWEAR", link: "/footwear" },
     { text: "APPAREL", link: "/apparel" },
     { text: "ACCESSORIES", link: "/accessories" },
